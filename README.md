@@ -91,16 +91,16 @@ A tecnologia está em constante evolução, e estou sempre ansioso para aprender
     Entre em contato:
 </p>
     <a href="https://www.linkedin.com/in/ewertonmotta/" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/ewerton.dev/" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href = "mailto:contato@ewerton.dev">
-        <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
+    <a href = "mailto:contato@ewerton.dev" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
     </a>
-    <a href = "https://wa.me/21979945945">
-        <img loading="lazy" src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    <a href = "https://wa.me/5521979945945" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </div>
 
