@@ -1,19 +1,46 @@
 <div align='center'>
-    <h2>Olá, me chamo Ewerton!</h2>
-    <h3>Bem vindo(a) ao meu perfil GitHub.</h3>
+    <h2>Bem vindo(a) ao meu perfil GitHub.</h2>
 </div>
 
 <hr>
 
 <div align='center'>
-    <h4>Sobre mim</h4>
+    <h3>Sobre mim</h3>
     <p>
-        Sou desenvolvedor formado em Sistemas de Informação pela Estácio e pós graduado em Engenharia de Software pela UFRJ. Atualmente estou desempregado e procurando me recolocar no mercado de trabalho. Tenho experiência de trabalho com PHP e Laravel, HTML, CSS e Javascript, Análise de Sistemas e Levantamento de Requisitos e possuo conhecimento de CI/CD com Jenkins, Docker e Banco de Dados relacional.
+        Olá! Sou <b>Ewerton</b>, um entusiasta apaixonado pela arte de programar, especializado no vasto e emocionante mundo do desenvolvimento PHP. Ao longo dos anos, transformei minha paixão por codificação em uma jornada profissional, buscando sempre a excelência e inovação.
     </p>
-    <p>No meu repositório você porderá encontrar projetos que uso para estudo e possíveis contribuições.</p>
+    <p>
+        Formado em Sistemas de Informação pela Estácio e pós graduado em Engenharia de Software pela UFRJ. Procurando realocação no mercado. Tenho experiência de trabalho com PHP e Laravel, HTML, CSS e Javascript, Análise de Sistemas e Levantamento de Requisitos e possuo conhecimento de CI/CD com Jenkins, Docker e Banco de Dados relacional.
+    </p>
 </div>
 
-<br>
+<div align='center'>
+<h4>🚀 O Que Faço</h4>
+<p>
+    Minha jornada como desenvolvedor PHP tem sido marcada pela construção de soluções web robustas e eficientes. Trabalho principalmente com o framework Laravel, aproveitando sua elegância e poder para criar aplicações incríveis. Do backend ao frontend, estou comprometido em oferecer experiências de usuário excepcionais.
+</p>
+</div>
+
+<div align='center'>
+<h4>💻 Habilidades</h4>
+<p>
+Com 7 anos de experiência, adquiri habilidades sólidas em:
+</p>
+<table>
+    <tr>
+        <td>
+                <b>PHP:</b> A linguagem que é o coração do meu trabalho diário.<br>
+                <b>Laravel:</b> Meu framework favorito, que me permite construir aplicações de forma rápida e eficiente.<br>
+                <b>MySQL, PostgreSQL, SQLite:</b> Gerenciamento de dados para garantir que as informações certas estejam no lugar certo.<br>
+                <b>Git:</b> Controle de versão para colaboração eficaz.<br>
+                <b>HTML, CSS, JavaScript:</b> Conhecimentos essenciais para o desenvolvimento web moderno.<br>
+                <b>APIs RESTful:</b> Criação e consumo para integrações poderosas.<br>
+                Entre outros...
+        </td>
+    </tr>
+</table>
+
+</div>
 
 <div align='center'>
     <h6>Ferramentas</h6>
@@ -41,7 +68,14 @@
 <br>
 
 <div align='center'>
-    <h6>Estou estudando sobre</h6>
+<h4>🌱 Busca Constante por Conhecimento</h4>
+<p>
+A tecnologia está em constante evolução, e estou sempre ansioso para aprender e aplicar as últimas tendências. Participar de comunidades, ler blogs e contribuir para projetos de código aberto são maneiras de me manter atualizado e desafiado.
+</p>
+</div>
+
+<div align='center'>
+    <h6>Atualmente estou estudando sobre</h6>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -50,7 +84,12 @@
 <br>
 
 <div align='center'>
-<h5>Contatos</h5>
+<h5>📧 Entre em Contato</h5>
+<p>
+    Se você está buscando um desenvolvedor PHP apaixonado, pronto para enfrentar desafios e contribuir para o sucesso do seu projeto, ficarei feliz em conversar.
+    <br>
+    Entre em contato:
+</p>
     <a href="https://www.linkedin.com/in/ewertonmotta/" target="_blank">
         <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
@@ -99,7 +138,7 @@
 <br>
 
 <div align='center'>
-GitHub Profile Trophy
+<h5>GitHub Profile Trophy</h5>
 
 <p align="center">
   <a
@@ -112,4 +151,10 @@ GitHub Profile Trophy
     />
   </a>
 </p>
+</div>
+
+<br>
+
+<div align='center'>
+<p>Agradeço por visitar meu perfil e estou animado com as possibilidades que o futuro reserva. Vamos construir algo incrível juntos! 🚀</p>
 </div>
