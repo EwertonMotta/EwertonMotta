@@ -4,27 +4,27 @@
 
 <hr>
 
-<div align='center'>
+<div>
     <h3>Sobre mim</h3>
     <p>
-        Olá! Sou <b>Ewerton</b>, um entusiasta apaixonado pela arte de programar, especializado no vasto e emocionante mundo do desenvolvimento PHP. Ao longo dos anos, transformei minha paixão por codificação em uma jornada profissional, buscando sempre a excelência e inovação.
+        Olá! Sou <b>Ewerton</b>, um entusiasta apaixonado pela arte de programar, procurando sempre me especializar no vasto e emocionante mundo do desenvolvimento PHP. Ao longo dos anos, transformei minha paixão por codificação em uma jornada profissional, buscando sempre a excelência e inovação.
     </p>
     <p>
-        Formado em Sistemas de Informação pela Estácio e pós graduado em Engenharia de Software pela UFRJ. Procurando realocação no mercado. Tenho experiência de trabalho com PHP e Laravel, HTML, CSS e Javascript, Análise de Sistemas e Levantamento de Requisitos e possuo conhecimento de CI/CD com Jenkins, Docker e Banco de Dados relacional.
+        Formado em Sistemas de Informação pela Estácio. Tenho experiência de trabalho com PHP e Laravel, HTML, CSS e Javascript, Análise de Sistemas e Levantamento de Requisitos e possuo conhecimento de CI/CD com Jenkins, Docker, Banco de Dados relacional e conhecimento básico nos principais frameworks/bibliotecas para desenvolvimento de frontend.
     </p>
 </div>
 
-<div align='center'>
+<div>
 <h4>🚀 O Que Faço</h4>
 <p>
-    Minha jornada como desenvolvedor PHP tem sido marcada pela construção de soluções web robustas e eficientes. Trabalho principalmente com o framework Laravel, aproveitando sua elegância e poder para criar aplicações incríveis. Do backend ao frontend, estou comprometido em oferecer experiências de usuário excepcionais.
+    Minha jornada como desenvolvedor PHP tem sido marcada pela construção de soluções web robustas e eficientes. Trabalho principalmente com o framework Laravel, aproveitando sua elegância e poder para criar aplicações incríveis. Do backend ao frontend, estou comprometido em oferecer experiências excepcionais ao usuário.
 </p>
 </div>
 
-<div align='center'>
+<div>
 <h4>💻 Habilidades</h4>
 <p>
-Com 7 anos de experiência, adquiri habilidades sólidas em:
+Com 7 anos de experiência, adquiri habilidades em:
 </p>
 <table>
     <tr>
@@ -42,7 +42,7 @@ Com 7 anos de experiência, adquiri habilidades sólidas em:
 
 </div>
 
-<div align='center'>
+<div>
     <h6>Ferramentas</h6>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -67,25 +67,25 @@ Com 7 anos de experiência, adquiri habilidades sólidas em:
 
 <br>
 
-<div align='center'>
+<div>
 <h4>🌱 Busca Constante por Conhecimento</h4>
 <p>
-A tecnologia está em constante evolução, e estou sempre ansioso para aprender e aplicar as últimas tendências. Participar de comunidades, ler blogs e contribuir para projetos de código aberto são maneiras de me manter atualizado e desafiado.
+A tecnologia está em constante evolução, e estou sempre ansioso para aprender e aplicar as últimas tendências. Participar de comunidades e ler blogs são maneiras de me manter atualizado e desafiado.
 </p>
 </div>
 
-<div align='center'>
+<!-- <div>
     <h6>Atualmente estou estudando sobre</h6>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" />
-</div>
+</div> 
 
-<br>
+<br>-->
 
-<div align='center'>
+<div>
 <h5>📧 Entre em Contato</h5>
 <p>
     Se você está buscando um desenvolvedor PHP apaixonado, pronto para enfrentar desafios e contribuir para o sucesso do seu projeto, ficarei feliz em conversar.
@@ -108,7 +108,7 @@ A tecnologia está em constante evolução, e estou sempre ansioso para aprender
 
 <br>
 
-<div align='center'>
+<div>
 <h5>GitHub Analytics</h5>
 <table border='0'>
   <tr>
@@ -139,7 +139,7 @@ A tecnologia está em constante evolução, e estou sempre ansioso para aprender
 
 <br>
 
-<div align='center'>
+<div>
 <h5>GitHub Profile Trophy</h5>
 
 <p align="center">
@@ -157,6 +157,6 @@ A tecnologia está em constante evolução, e estou sempre ansioso para aprender
 
 <br>
 
-<div align='center'>
+<div>
 <p>Agradeço por visitar meu perfil e estou animado com as possibilidades que o futuro reserva. Vamos construir algo incrível juntos! 🚀</p>
 </div>
